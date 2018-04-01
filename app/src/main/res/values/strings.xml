@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MediaPicker</string>
+    <string name="select_source">Select Source</string>
+    <string name="permission_denied">Permission Denied</string>
+    <string-array name="source_array">
+        <item>Camera</item>
+        <item>Gallery</item>
+    </string-array>
+</resources>
